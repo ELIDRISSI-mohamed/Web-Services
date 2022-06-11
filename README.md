@@ -9,3 +9,6 @@
 <img src="./captures/3.PNG">
 <h5>getCompte request</h5>
 <img src="./captures/4.PNG">
+<h5>ClientWS</h5>
+<img src="./captures/5.PNG">
+<img src="./captures/6.PNG">
